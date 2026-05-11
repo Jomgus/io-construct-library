@@ -1,0 +1,53 @@
+@import "tailwindcss";
+
+:root {
+  --background: #f5eee3;
+  --foreground: #241e18;
+  --surface: #fbf6ef;
+  --surface-strong: #efe4d3;
+  --border: #d8c9b4;
+  --accent: #355449;
+  --accent-soft: #dce7e0;
+  --muted: #6e665d;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-ui);
+  --font-display: var(--font-editorial);
+  --font-mono: "SFMono-Regular", Menlo, Monaco, Consolas, "Liberation Mono",
+    "Courier New", monospace;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  letter-spacing: 0.002em;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body::selection {
+  background: var(--accent-soft);
+}
+
+.font-display {
+  font-family: var(--font-display), Georgia, serif;
+}
+
+.paper-grid {
+  background-image:
+    linear-gradient(to right, rgba(80, 61, 41, 0.035) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(80, 61, 41, 0.035) 1px, transparent 1px);
+  background-size: 28px 28px;
+}
+
+.soft-vignette {
+  background:
+    radial-gradient(circle at top, rgba(255, 255, 255, 0.76), transparent 34%),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.2), transparent 32%);
+}
