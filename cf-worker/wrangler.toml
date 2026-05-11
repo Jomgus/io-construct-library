@@ -1,0 +1,13 @@
+name = "io-construct-search-worker"
+main = "src/index.ts"
+compatibility_date = "2024-03-19"
+compatibility_flags = ["nodejs_compat"]
+
+[ai]
+binding = "AI"
+
+[vars]
+SEARCH_RANKING_MODE = "hybrid"
+
+# Configure with:
+#   wrangler secret put POSTGRES_URL
