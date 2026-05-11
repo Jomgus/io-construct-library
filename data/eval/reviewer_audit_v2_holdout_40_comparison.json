@@ -1,0 +1,71 @@
+{
+  "first40": {
+    "total": 40,
+    "y": 37,
+    "hit_rate": 0.925,
+    "avg_rating": 4.7,
+    "by_stratum": {
+      "ambiguous": {
+        "count": 10,
+        "y": 9,
+        "hit_rate": 0.9,
+        "avg_rating": 4.7
+      },
+      "broad": {
+        "count": 10,
+        "y": 10,
+        "hit_rate": 1.0,
+        "avg_rating": 4.7
+      },
+      "narrow": {
+        "count": 10,
+        "y": 9,
+        "hit_rate": 0.9,
+        "avg_rating": 4.7
+      },
+      "scale_focused": {
+        "count": 10,
+        "y": 9,
+        "hit_rate": 0.9,
+        "avg_rating": 4.7
+      }
+    }
+  },
+  "holdout40": {
+    "total": 40,
+    "y": 37,
+    "hit_rate": 0.925,
+    "avg_rating": 4.475,
+    "by_stratum": {
+      "ambiguous": {
+        "count": 10,
+        "y": 7,
+        "hit_rate": 0.7,
+        "avg_rating": 3.5
+      },
+      "broad": {
+        "count": 10,
+        "y": 10,
+        "hit_rate": 1.0,
+        "avg_rating": 4.6
+      },
+      "narrow": {
+        "count": 10,
+        "y": 10,
+        "hit_rate": 1.0,
+        "avg_rating": 4.9
+      },
+      "scale_focused": {
+        "count": 10,
+        "y": 10,
+        "hit_rate": 1.0,
+        "avg_rating": 4.9
+      }
+    }
+  },
+  "delta": {
+    "y": 0,
+    "hit_rate": 0.0,
+    "avg_rating": -0.22500000000000053
+  }
+}

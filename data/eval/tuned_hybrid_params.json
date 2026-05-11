@@ -1,0 +1,14 @@
+{
+  "benchmark": "/Users/jomus/Code/construct-library/data/eval/benchmark_io_gold_v1.jsonl",
+  "num_queries": 120,
+  "semantic_mode": "sentence-transformers/all-MiniLM-L6-v2",
+  "best_hybrid": {
+    "hit_at_5": 0.875,
+    "mrr_at_5": 0.8652777777777778,
+    "w_lex": 0.9,
+    "w_vec": 0.5,
+    "w_paper": 0.0,
+    "w_exact": 0.0,
+    "w_openalex": 0.05
+  }
+}

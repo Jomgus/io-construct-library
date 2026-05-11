@@ -1,0 +1,141 @@
+{
+  "benchmark_path": "data/eval/benchmark_io_gold_v2.jsonl",
+  "num_queries": 120,
+  "baseline_on_mrr_at_5": 0.8211111111111111,
+  "baseline_on_broad_mrr_at_5": 0.9833333333333333,
+  "mode_off": {
+    "mode": "off",
+    "base_url": "https://construct-library-jf6gj1hig-josues-projects-3778d4c0.vercel.app",
+    "num_queries": 120,
+    "hit_at_5": 0.9416666666666667,
+    "mrr_at_5": 0.8172222222222222,
+    "hit_at_5_ci95": [
+      0.9,
+      0.9833333333333333
+    ],
+    "mrr_at_5_ci95": [
+      0.7586041666666666,
+      0.8741666666666666
+    ],
+    "timeout_rate": 0.0,
+    "errors_count": 0,
+    "per_stratum": {
+      "broad": {
+        "hit_at_5": 0.9666666666666667,
+        "mrr_at_5": 0.8122222222222221
+      },
+      "narrow": {
+        "hit_at_5": 0.9666666666666667,
+        "mrr_at_5": 0.9233333333333333
+      },
+      "scale_focused": {
+        "hit_at_5": 0.9666666666666667,
+        "mrr_at_5": 0.8888888888888888
+      },
+      "ambiguous": {
+        "hit_at_5": 0.8666666666666667,
+        "mrr_at_5": 0.6444444444444444
+      }
+    },
+    "per_intent": {
+      "broad": {
+        "hit_at_5": 0.9516129032258065,
+        "mrr_at_5": 0.8446236559139784
+      },
+      "scale_focused": {
+        "hit_at_5": 0.9444444444444444,
+        "mrr_at_5": 0.8310185185185185
+      },
+      "narrow": {
+        "hit_at_5": 0.9090909090909091,
+        "mrr_at_5": 0.7909090909090909
+      },
+      "ambiguous": {
+        "hit_at_5": 0.9090909090909091,
+        "mrr_at_5": 0.6439393939393939
+      }
+    },
+    "candidate_depth_histogram": {
+      "30": 47,
+      "40": 62,
+      "60": 11
+    }
+  },
+  "mode_cross_encoder_small": {
+    "mode": "cross_encoder_small",
+    "base_url": "https://construct-library-egnppf8h5-josues-projects-3778d4c0.vercel.app",
+    "num_queries": 120,
+    "hit_at_5": 0.975,
+    "mrr_at_5": 0.9277777777777778,
+    "hit_at_5_ci95": [
+      0.9416666666666667,
+      1.0
+    ],
+    "mrr_at_5_ci95": [
+      0.8868055555555556,
+      0.9645833333333333
+    ],
+    "timeout_rate": 0.0,
+    "errors_count": 0,
+    "per_stratum": {
+      "broad": {
+        "hit_at_5": 1.0,
+        "mrr_at_5": 0.95
+      },
+      "narrow": {
+        "hit_at_5": 1.0,
+        "mrr_at_5": 1.0
+      },
+      "scale_focused": {
+        "hit_at_5": 0.9666666666666667,
+        "mrr_at_5": 0.9277777777777777
+      },
+      "ambiguous": {
+        "hit_at_5": 0.9333333333333333,
+        "mrr_at_5": 0.8333333333333334
+      }
+    },
+    "per_intent": {
+      "broad": {
+        "hit_at_5": 0.967741935483871,
+        "mrr_at_5": 0.9354838709677419
+      },
+      "scale_focused": {
+        "hit_at_5": 0.9722222222222222,
+        "mrr_at_5": 0.9189814814814814
+      },
+      "narrow": {
+        "hit_at_5": 1.0,
+        "mrr_at_5": 1.0
+      },
+      "ambiguous": {
+        "hit_at_5": 1.0,
+        "mrr_at_5": 0.8409090909090909
+      }
+    },
+    "candidate_depth_histogram": {
+      "30": 47,
+      "40": 62,
+      "60": 11
+    }
+  },
+  "delta_cross_encoder_minus_off": {
+    "hit_at_5": 0.03333333333333333,
+    "mrr_at_5": 0.11055555555555557,
+    "hit_at_5_ci95": [
+      0.008333333333333333,
+      0.06666666666666667
+    ],
+    "mrr_at_5_ci95": [
+      0.05777777777777778,
+      0.16555902777777773
+    ]
+  },
+  "acceptance_gates": {
+    "ambiguous_hit_at_5_ge_0_75": true,
+    "ambiguous_mrr_at_5_ge_0_55": true,
+    "broad_mrr_no_worse_than_minus_0_01_vs_baseline_on": false,
+    "timeout_rate_lt_0_02": true,
+    "all_pass": false
+  }
+}

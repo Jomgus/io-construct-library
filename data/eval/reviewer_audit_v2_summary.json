@@ -1,0 +1,38 @@
+{
+  "rows": 40,
+  "columns": [
+    "query",
+    "stratum",
+    "top5_results",
+    "relevant_in_top5",
+    "rank_of_first_relevant",
+    "rating_1_5",
+    "notes",
+    "keep/edit"
+  ],
+  "keep_edit_counts": {
+    "keep": 37,
+    "edit": 3
+  },
+  "ratings": {
+    "5": 34,
+    "2": 3,
+    "4": 3
+  },
+  "relevant_in_top5": {
+    "Y": 37,
+    "N": 3
+  },
+  "strata_counts": {
+    "ambiguous": 10,
+    "broad": 10,
+    "narrow": 10,
+    "scale_focused": 10
+  },
+  "stress_test_rows": 3,
+  "stress_test_queries": [
+    "employee voice and silence",
+    "role ambiguity at work",
+    "emotional labor in service work"
+  ]
+}

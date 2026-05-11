@@ -1,0 +1,111 @@
+{
+  "semantic_mode": "sentence-transformers/all-MiniLM-L6-v2",
+  "num_queries": 120,
+  "strata_counts": {
+    "ambiguous": 30,
+    "broad": 30,
+    "narrow": 30,
+    "scale_focused": 30
+  },
+  "lexical_only": {
+    "hit_at_5": 0.8833333333333333,
+    "mrr_at_5": 0.7995833333333332,
+    "hit_at_5_ci95": [
+      0.825,
+      0.9333333333333333
+    ],
+    "mrr_at_5_ci95": [
+      0.7326284722222222,
+      0.8627847222222221
+    ]
+  },
+  "vector_only": {
+    "hit_at_5": 0.9083333333333333,
+    "mrr_at_5": 0.8331944444444445,
+    "hit_at_5_ci95": [
+      0.8583333333333333,
+      0.9583333333333334
+    ],
+    "mrr_at_5_ci95": [
+      0.769861111111111,
+      0.8909791666666665
+    ]
+  },
+  "hybrid": {
+    "hit_at_5": 0.9416666666666667,
+    "mrr_at_5": 0.8418055555555557,
+    "hit_at_5_ci95": [
+      0.9,
+      0.9833333333333333
+    ],
+    "mrr_at_5_ci95": [
+      0.7830486111111111,
+      0.8963888888888889
+    ]
+  },
+  "delta_hybrid_minus_vector": {
+    "hit_at_5_ci95": [
+      0.0,
+      0.075
+    ],
+    "mrr_at_5_ci95": [
+      -0.022916666666666665,
+      0.0375
+    ]
+  },
+  "per_stratum": {
+    "broad": {
+      "vector_hit_at_5": 1.0,
+      "vector_mrr_at_5": 0.9833333333333333,
+      "hybrid_hit_at_5": 1.0,
+      "hybrid_mrr_at_5": 1.0,
+      "lexical_hit_at_5": 1.0,
+      "lexical_mrr_at_5": 0.961111111111111
+    },
+    "narrow": {
+      "vector_hit_at_5": 1.0,
+      "vector_mrr_at_5": 0.9666666666666667,
+      "hybrid_hit_at_5": 1.0,
+      "hybrid_mrr_at_5": 0.9833333333333333,
+      "lexical_hit_at_5": 1.0,
+      "lexical_mrr_at_5": 1.0
+    },
+    "ambiguous": {
+      "vector_hit_at_5": 0.6333333333333333,
+      "vector_mrr_at_5": 0.39944444444444444,
+      "hybrid_hit_at_5": 0.7666666666666667,
+      "hybrid_mrr_at_5": 0.3838888888888889,
+      "lexical_hit_at_5": 0.5333333333333333,
+      "lexical_mrr_at_5": 0.2372222222222222
+    },
+    "scale_focused": {
+      "vector_hit_at_5": 1.0,
+      "vector_mrr_at_5": 0.9833333333333333,
+      "hybrid_hit_at_5": 1.0,
+      "hybrid_mrr_at_5": 1.0,
+      "lexical_hit_at_5": 1.0,
+      "lexical_mrr_at_5": 1.0
+    }
+  },
+  "hybrid_params": {
+    "semantic_weight": 0.5,
+    "lexical_weight": 0.9,
+    "rrf_k": 50.0,
+    "candidate_pool": 200
+  },
+  "selection_rule": {
+    "primary_metric": "highest_mrr_at_5",
+    "guardrail": "hit_at_5 must not drop materially vs top alternative",
+    "confidence": "prefer mode with bootstrap CI clearly better or at least not worse"
+  },
+  "paths": {
+    "benchmark": "/Users/jomus/Code/construct-library/data/eval/benchmark_io_gold_v1.jsonl",
+    "report": "/Users/jomus/Code/construct-library/data/eval/ranking_eval_report.json"
+  },
+  "winner": {
+    "mode": "hybrid",
+    "runner_up": "vector_only",
+    "guardrail_pass": true,
+    "hit_drop_vs_runner_up": -0.033333333333333326
+  }
+}

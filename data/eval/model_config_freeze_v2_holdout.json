@@ -1,0 +1,27 @@
+{
+  "frozen_at": "2026-03-28",
+  "endpoint_used_for_scoring": "http://127.0.0.1:4011",
+  "model_config": {
+    "search_ranking_mode": "hybrid",
+    "search_rerank_mode": "off",
+    "candidate_depth_defaults": {
+      "ambiguous": 60,
+      "broad": 40,
+      "narrow": 30,
+      "scale_focused": 30
+    },
+    "candidate_depth_cap": 80,
+    "candidate_depth_floor": "topK",
+    "ambiguous_semantic_blend_default": 0.35,
+    "ambiguous_feature_boost_weight_default": 0.25,
+    "voice_silence_force_pattern": [
+      "employee voice",
+      "employee silence",
+      "organizational silence",
+      "voice behavior"
+    ]
+  },
+  "selection_rule": "benchmark_io_gold_v2 minus first 40 audit queries; deterministic first 10 per stratum by id",
+  "holdout_file": "/Users/jomus/Code/construct-library/data/eval/reviewer_audit_v2_holdout_40.csv",
+  "comparison_file": "/Users/jomus/Code/construct-library/data/eval/reviewer_audit_v2_holdout_40_comparison.json"
+}

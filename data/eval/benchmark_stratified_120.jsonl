@@ -1,0 +1,120 @@
+{"id": "broad_001", "stratum": "broad", "query": "overall Job satisfaction at work", "relevant_constructs": ["Job satisfaction"]}
+{"id": "broad_002", "stratum": "broad", "query": "workplace Job performance", "relevant_constructs": ["Job performance"]}
+{"id": "broad_003", "stratum": "broad", "query": "research on Organizational commitment in organizations", "relevant_constructs": ["Organizational commitment"]}
+{"id": "broad_004", "stratum": "broad", "query": "overall Job attitude at work", "relevant_constructs": ["Job attitude"]}
+{"id": "broad_005", "stratum": "broad", "query": "workplace Big Five personality traits", "relevant_constructs": ["Big Five personality traits"]}
+{"id": "broad_006", "stratum": "broad", "query": "research on Career development in organizations", "relevant_constructs": ["Career development"]}
+{"id": "broad_007", "stratum": "broad", "query": "overall Test validity at work", "relevant_constructs": ["Test validity"]}
+{"id": "broad_008", "stratum": "broad", "query": "workplace Turnover", "relevant_constructs": ["Turnover"]}
+{"id": "broad_009", "stratum": "broad", "query": "research on Interpersonal communication in organizations", "relevant_constructs": ["Interpersonal communication"]}
+{"id": "broad_010", "stratum": "broad", "query": "overall Job design at work", "relevant_constructs": ["Job design"]}
+{"id": "broad_011", "stratum": "broad", "query": "workplace Supervisor", "relevant_constructs": ["Supervisor"]}
+{"id": "broad_012", "stratum": "broad", "query": "research on Personnel selection in organizations", "relevant_constructs": ["Personnel selection"]}
+{"id": "broad_013", "stratum": "broad", "query": "overall Job analysis at work", "relevant_constructs": ["Job analysis"]}
+{"id": "broad_014", "stratum": "broad", "query": "workplace Organizational citizenship behavior", "relevant_constructs": ["Organizational citizenship behavior"]}
+{"id": "broad_015", "stratum": "broad", "query": "research on Construct validity in organizations", "relevant_constructs": ["Construct validity"]}
+{"id": "broad_016", "stratum": "broad", "query": "overall Population at work", "relevant_constructs": ["Population"]}
+{"id": "broad_017", "stratum": "broad", "query": "workplace Economic Justice", "relevant_constructs": ["Economic Justice"]}
+{"id": "broad_018", "stratum": "broad", "query": "research on Extraversion and introversion in organizations", "relevant_constructs": ["Extraversion and introversion"]}
+{"id": "broad_019", "stratum": "broad", "query": "overall Situational ethics at work", "relevant_constructs": ["Situational ethics"]}
+{"id": "broad_020", "stratum": "broad", "query": "workplace Organizational effectiveness", "relevant_constructs": ["Organizational effectiveness"]}
+{"id": "broad_021", "stratum": "broad", "query": "research on Burnout in organizations", "relevant_constructs": ["Burnout"]}
+{"id": "broad_022", "stratum": "broad", "query": "overall Organizational justice at work", "relevant_constructs": ["Organizational justice"]}
+{"id": "broad_023", "stratum": "broad", "query": "workplace Leadership style", "relevant_constructs": ["Leadership style"]}
+{"id": "broad_024", "stratum": "broad", "query": "research on Feeling in organizations", "relevant_constructs": ["Feeling"]}
+{"id": "broad_025", "stratum": "broad", "query": "overall Conscientiousness at work", "relevant_constructs": ["Conscientiousness"]}
+{"id": "broad_026", "stratum": "broad", "query": "workplace Productivity", "relevant_constructs": ["Productivity"]}
+{"id": "broad_027", "stratum": "broad", "query": "research on Occupational stress in organizations", "relevant_constructs": ["Occupational stress"]}
+{"id": "broad_028", "stratum": "broad", "query": "overall Confirmatory factor analysis at work", "relevant_constructs": ["Confirmatory factor analysis"]}
+{"id": "broad_029", "stratum": "broad", "query": "workplace Interpersonal relationship", "relevant_constructs": ["Interpersonal relationship"]}
+{"id": "broad_030", "stratum": "broad", "query": "research on Transformational leadership in organizations", "relevant_constructs": ["Transformational leadership"]}
+{"id": "narrow_031", "stratum": "narrow", "query": "specific construct Abortion", "relevant_constructs": ["Abortion"]}
+{"id": "narrow_032", "stratum": "narrow", "query": "definition of Abuse of power", "relevant_constructs": ["Abuse of power"]}
+{"id": "narrow_033", "stratum": "narrow", "query": "what is Alcohol intoxication in io psychology", "relevant_constructs": ["Alcohol intoxication"]}
+{"id": "narrow_034", "stratum": "narrow", "query": "specific construct Anagrams", "relevant_constructs": ["Anagrams"]}
+{"id": "narrow_035", "stratum": "narrow", "query": "definition of Atlanta", "relevant_constructs": ["Atlanta"]}
+{"id": "narrow_036", "stratum": "narrow", "query": "what is Attribution bias in io psychology", "relevant_constructs": ["Attribution bias"]}
+{"id": "narrow_037", "stratum": "narrow", "query": "specific construct Autocracy", "relevant_constructs": ["Autocracy"]}
+{"id": "narrow_038", "stratum": "narrow", "query": "definition of Breast cancer", "relevant_constructs": ["Breast cancer"]}
+{"id": "narrow_039", "stratum": "narrow", "query": "what is Brewing in io psychology", "relevant_constructs": ["Brewing"]}
+{"id": "narrow_040", "stratum": "narrow", "query": "specific construct Business analysis", "relevant_constructs": ["Business analysis"]}
+{"id": "narrow_041", "stratum": "narrow", "query": "definition of Business process", "relevant_constructs": ["Business process"]}
+{"id": "narrow_042", "stratum": "narrow", "query": "what is Child abuse in io psychology", "relevant_constructs": ["Child abuse"]}
+{"id": "narrow_043", "stratum": "narrow", "query": "specific construct Classical test theory", "relevant_constructs": ["Classical test theory"]}
+{"id": "narrow_044", "stratum": "narrow", "query": "definition of Coal mining", "relevant_constructs": ["Coal mining"]}
+{"id": "narrow_045", "stratum": "narrow", "query": "what is Cognitive map in io psychology", "relevant_constructs": ["Cognitive map"]}
+{"id": "narrow_046", "stratum": "narrow", "query": "specific construct Computerized adaptive testing", "relevant_constructs": ["Computerized adaptive testing"]}
+{"id": "narrow_047", "stratum": "narrow", "query": "definition of Control variates", "relevant_constructs": ["Control variates"]}
+{"id": "narrow_048", "stratum": "narrow", "query": "what is Cued recall in io psychology", "relevant_constructs": ["Cued recall"]}
+{"id": "narrow_049", "stratum": "narrow", "query": "specific construct Cultural group selection", "relevant_constructs": ["Cultural group selection"]}
+{"id": "narrow_050", "stratum": "narrow", "query": "definition of Defining Issues Test", "relevant_constructs": ["Defining Issues Test"]}
+{"id": "narrow_051", "stratum": "narrow", "query": "what is Deliberation in io psychology", "relevant_constructs": ["Deliberation"]}
+{"id": "narrow_052", "stratum": "narrow", "query": "specific construct Disordered eating", "relevant_constructs": ["Disordered eating"]}
+{"id": "narrow_053", "stratum": "narrow", "query": "definition of Drug usage", "relevant_constructs": ["Drug usage"]}
+{"id": "narrow_054", "stratum": "narrow", "query": "what is Empathic concern in io psychology", "relevant_constructs": ["Empathic concern"]}
+{"id": "narrow_055", "stratum": "narrow", "query": "specific construct Expansive", "relevant_constructs": ["Expansive"]}
+{"id": "narrow_056", "stratum": "narrow", "query": "definition of Gainful employment", "relevant_constructs": ["Gainful employment"]}
+{"id": "narrow_057", "stratum": "narrow", "query": "what is Geographical distance in io psychology", "relevant_constructs": ["Geographical distance"]}
+{"id": "narrow_058", "stratum": "narrow", "query": "specific construct Health promotion", "relevant_constructs": ["Health promotion"]}
+{"id": "narrow_059", "stratum": "narrow", "query": "definition of Inclusion–exclusion principle", "relevant_constructs": ["Inclusion–exclusion principle"]}
+{"id": "narrow_060", "stratum": "narrow", "query": "what is Intellectual ability in io psychology", "relevant_constructs": ["Intellectual ability"]}
+{"id": "scale_focused_061", "stratum": "scale_focused", "query": "how to measure Job satisfaction scale items questionnaire", "relevant_constructs": ["Job satisfaction"]}
+{"id": "scale_focused_062", "stratum": "scale_focused", "query": "Organizational commitment measurement instrument", "relevant_constructs": ["Organizational commitment"]}
+{"id": "scale_focused_063", "stratum": "scale_focused", "query": "validated scale for Big Five personality traits", "relevant_constructs": ["Big Five personality traits"]}
+{"id": "scale_focused_064", "stratum": "scale_focused", "query": "how to measure Test validity scale items questionnaire", "relevant_constructs": ["Test validity"]}
+{"id": "scale_focused_065", "stratum": "scale_focused", "query": "Construct validity measurement instrument", "relevant_constructs": ["Construct validity"]}
+{"id": "scale_focused_066", "stratum": "scale_focused", "query": "validated scale for Productivity", "relevant_constructs": ["Productivity"]}
+{"id": "scale_focused_067", "stratum": "scale_focused", "query": "how to measure Confirmatory factor analysis scale items questionnaire", "relevant_constructs": ["Confirmatory factor analysis"]}
+{"id": "scale_focused_068", "stratum": "scale_focused", "query": "Incremental validity measurement instrument", "relevant_constructs": ["Incremental validity"]}
+{"id": "scale_focused_069", "stratum": "scale_focused", "query": "validated scale for Personality Assessment Inventory", "relevant_constructs": ["Personality Assessment Inventory"]}
+{"id": "scale_focused_070", "stratum": "scale_focused", "query": "how to measure Discriminant validity scale items questionnaire", "relevant_constructs": ["Discriminant validity"]}
+{"id": "scale_focused_071", "stratum": "scale_focused", "query": "Socioeconomic status measurement instrument", "relevant_constructs": ["Socioeconomic status"]}
+{"id": "scale_focused_072", "stratum": "scale_focused", "query": "validated scale for Criterion validity", "relevant_constructs": ["Criterion validity"]}
+{"id": "scale_focused_073", "stratum": "scale_focused", "query": "how to measure Well-being scale items questionnaire", "relevant_constructs": ["Well-being"]}
+{"id": "scale_focused_074", "stratum": "scale_focused", "query": "Facet (psychology) measurement instrument", "relevant_constructs": ["Facet (psychology)"]}
+{"id": "scale_focused_075", "stratum": "scale_focused", "query": "validated scale for Inter-rater reliability", "relevant_constructs": ["Inter-rater reliability"]}
+{"id": "scale_focused_076", "stratum": "scale_focused", "query": "how to measure California Psychological Inventory scale items questionnaire", "relevant_constructs": ["California Psychological Inventory"]}
+{"id": "scale_focused_077", "stratum": "scale_focused", "query": "Convergent validity measurement instrument", "relevant_constructs": ["Convergent validity"]}
+{"id": "scale_focused_078", "stratum": "scale_focused", "query": "validated scale for Occupational prestige", "relevant_constructs": ["Occupational prestige"]}
+{"id": "scale_focused_079", "stratum": "scale_focused", "query": "how to measure Personality test scale items questionnaire", "relevant_constructs": ["Personality test"]}
+{"id": "scale_focused_080", "stratum": "scale_focused", "query": "Minnesota Multiphasic Personality Inventory measurement instrument", "relevant_constructs": ["Minnesota Multiphasic Personality Inventory"]}
+{"id": "scale_focused_081", "stratum": "scale_focused", "query": "validated scale for Equity theory", "relevant_constructs": ["Equity theory"]}
+{"id": "scale_focused_082", "stratum": "scale_focused", "query": "how to measure Item response theory scale items questionnaire", "relevant_constructs": ["Item response theory"]}
+{"id": "scale_focused_083", "stratum": "scale_focused", "query": "Exploratory factor analysis measurement instrument", "relevant_constructs": ["Exploratory factor analysis"]}
+{"id": "scale_focused_084", "stratum": "scale_focused", "query": "validated scale for Measurement invariance", "relevant_constructs": ["Measurement invariance"]}
+{"id": "scale_focused_085", "stratum": "scale_focused", "query": "how to measure Cognitive style scale items questionnaire", "relevant_constructs": ["Cognitive style"]}
+{"id": "scale_focused_086", "stratum": "scale_focused", "query": "Content validity measurement instrument", "relevant_constructs": ["Content validity"]}
+{"id": "scale_focused_087", "stratum": "scale_focused", "query": "validated scale for Lie detection", "relevant_constructs": ["Lie detection"]}
+{"id": "scale_focused_088", "stratum": "scale_focused", "query": "how to measure Pay for performance scale items questionnaire", "relevant_constructs": ["Pay for performance"]}
+{"id": "scale_focused_089", "stratum": "scale_focused", "query": "Telecommuting measurement instrument", "relevant_constructs": ["Telecommuting"]}
+{"id": "scale_focused_090", "stratum": "scale_focused", "query": "validated scale for Machiavellianism", "relevant_constructs": ["Machiavellianism"]}
+{"id": "ambiguous_091", "stratum": "ambiguous", "query": "construct around arts in workplace research", "relevant_constructs": ["Liberal arts education", "Applied Arts and Design", "Arts"]}
+{"id": "ambiguous_092", "stratum": "ambiguous", "query": "construct around group in workplace research", "relevant_constructs": ["Corporate group", "Cultural group selection", "Racial group"]}
+{"id": "ambiguous_093", "stratum": "ambiguous", "query": "construct around list in workplace research", "relevant_constructs": ["Adjective check list", "Alternate Titles List", "Detailed Work Activities List"]}
+{"id": "ambiguous_094", "stratum": "ambiguous", "query": "construct around making in workplace research", "relevant_constructs": ["Normative model of decision-making", "Decision Making System", "Frequency of Decision Making"]}
+{"id": "ambiguous_095", "stratum": "ambiguous", "query": "construct around process in workplace research", "relevant_constructs": ["Business process", "Innovation process", "Business process reengineering"]}
+{"id": "ambiguous_096", "stratum": "ambiguous", "query": "construct around public in workplace research", "relevant_constructs": ["Public opinion", "Public accounting", "Public service motivation"]}
+{"id": "ambiguous_097", "stratum": "ambiguous", "query": "construct around system in workplace research", "relevant_constructs": ["Management control system", "Human resource management system", "Presidential system"]}
+{"id": "ambiguous_098", "stratum": "ambiguous", "query": "construct around characteristics in workplace research", "relevant_constructs": ["Estimating the Quantifiable Characteristics of Products, Events, or Information", "Individual Goal Characteristics", "Job Characteristics"]}
+{"id": "ambiguous_099", "stratum": "ambiguous", "query": "construct around conditions in workplace research", "relevant_constructs": ["Environmental Conditions", "Exposed to Extremely Bright or Inadequate Lighting Conditions", "Exposed to Hazardous Conditions"]}
+{"id": "ambiguous_100", "stratum": "ambiguous", "query": "construct around customer in workplace research", "relevant_constructs": ["Customer service", "Customer retention", "Customer advocacy"]}
+{"id": "ambiguous_101", "stratum": "ambiguous", "query": "construct around design in workplace research", "relevant_constructs": ["Job design", "Service design", "Architectural design"]}
+{"id": "ambiguous_102", "stratum": "ambiguous", "query": "construct around individual in workplace research", "relevant_constructs": ["Individual capital", "Achieve Most Important Individual Goal", "How Many Quantitative Individual Goals"]}
+{"id": "ambiguous_103", "stratum": "ambiguous", "query": "construct around interpersonal in workplace research", "relevant_constructs": ["Interpersonal communication", "Interpersonal relationship", "Interpersonal attraction"]}
+{"id": "ambiguous_104", "stratum": "ambiguous", "query": "construct around justice in workplace research", "relevant_constructs": ["Economic Justice", "Organizational justice", "Procedural justice"]}
+{"id": "ambiguous_105", "stratum": "ambiguous", "query": "construct around life in workplace research", "relevant_constructs": ["Work–life balance", "Quality of working life", "Life expectancy"]}
+{"id": "ambiguous_106", "stratum": "ambiguous", "query": "construct around performance in workplace research", "relevant_constructs": ["Job performance", "Organizational performance", "Contextual performance"]}
+{"id": "ambiguous_107", "stratum": "ambiguous", "query": "construct around problem in workplace research", "relevant_constructs": ["Principal–agent problem", "Creative problem-solving", "Complex Problem Solving"]}
+{"id": "ambiguous_108", "stratum": "ambiguous", "query": "construct around product in workplace research", "relevant_constructs": ["Product market", "Product category", "Product differentiation"]}
+{"id": "ambiguous_109", "stratum": "ambiguous", "query": "construct around reasoning in workplace research", "relevant_constructs": ["Verbal reasoning", "Abstract reasoning", "Deductive Reasoning"]}
+{"id": "ambiguous_110", "stratum": "ambiguous", "query": "construct around required in workplace research", "relevant_constructs": ["Complex or High Level Skills Required", "Frequency Required to Work:", "Instructional Program Required"]}
+{"id": "ambiguous_111", "stratum": "ambiguous", "query": "construct around selection in workplace research", "relevant_constructs": ["Personnel selection", "Cultural group selection", "Group selection"]}
+{"id": "ambiguous_112", "stratum": "ambiguous", "query": "construct around self in workplace research", "relevant_constructs": ["Core self-evaluations", "Self construal", "Self-compassion"]}
+{"id": "ambiguous_113", "stratum": "ambiguous", "query": "construct around strategic in workplace research", "relevant_constructs": ["Strategic human resource planning", "Strategic financial management", "Strategic leadership"]}
+{"id": "ambiguous_114", "stratum": "ambiguous", "query": "construct around systems in workplace research", "relevant_constructs": ["Management information systems", "Human Resources Systems and Practices", "Systems Analysis"]}
+{"id": "ambiguous_115", "stratum": "ambiguous", "query": "construct around technical in workplace research", "relevant_constructs": ["Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment", "Performing Complex and Technical Activities", "Recent Technical Skill Training"]}
+{"id": "ambiguous_116", "stratum": "ambiguous", "query": "construct around technology in workplace research", "relevant_constructs": ["Engineering and Technology", "Information Technology", "Invest in New Equipment and Technology"]}
+{"id": "ambiguous_117", "stratum": "ambiguous", "query": "construct around value in workplace research", "relevant_constructs": ["Shareholder value", "Knowledge value chain", "Creating shared value"]}
+{"id": "ambiguous_118", "stratum": "ambiguous", "query": "construct around working in workplace research", "relevant_constructs": ["Working memory", "Quality of working life", "Working class"]}
+{"id": "ambiguous_119", "stratum": "ambiguous", "query": "construct around active in workplace research", "relevant_constructs": ["Active duty", "Active Learning", "Active Learning - Entry Requirement"]}
+{"id": "ambiguous_120", "stratum": "ambiguous", "query": "construct around body in workplace research", "relevant_constructs": ["Body Positioning", "Exposed to Whole Body Vibration", "Gross Body Coordination"]}

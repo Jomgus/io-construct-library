@@ -1,0 +1,42 @@
+{
+  "n_overlap": 40,
+  "relevant_agreement_pct": 0.9,
+  "relevant_confusion": {
+    "YY": 35,
+    "YN": 2,
+    "NY": 2,
+    "NN": 1
+  },
+  "relevant_cohens_kappa": 0.2792792792792791,
+  "keep_edit_agreement_pct": 0.625,
+  "rank_exact_agreement_pct": 0.7567567567567568,
+  "rank_within_1_agreement_pct": 0.8108108108108109,
+  "valid_rank_pairs": 37,
+  "disagreement_count": 21,
+  "per_stratum_relevant_agreement": {
+    "ambiguous": {
+      "n": 10,
+      "agree": 7,
+      "agreement_pct": 0.7
+    },
+    "broad": {
+      "n": 10,
+      "agree": 9,
+      "agreement_pct": 0.9
+    },
+    "narrow": {
+      "n": 10,
+      "agree": 10,
+      "agreement_pct": 1.0
+    },
+    "scale_focused": {
+      "n": 10,
+      "agree": 10,
+      "agreement_pct": 1.0
+    }
+  },
+  "inputs": {
+    "our": "/Users/jomus/Code/construct-library/data/eval/reviewer_audit_v2_holdout_40.csv",
+    "patrick": "/Users/jomus/Code/construct-library/data/eval/patrick_holdout_audit.csv"
+  }
+}

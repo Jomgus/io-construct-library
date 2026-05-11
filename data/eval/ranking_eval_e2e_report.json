@@ -1,0 +1,91 @@
+{
+  "benchmark_path": "/Users/jomus/Code/construct-library/data/eval/benchmark_io_gold_v1.jsonl",
+  "num_queries": 120,
+  "mode_off": {
+    "mode": "off",
+    "base_url": "https://construct-library-mvgu7zn6y-josues-projects-3778d4c0.vercel.app",
+    "num_queries": 120,
+    "hit_at_5": 0.8,
+    "mrr_at_5": 0.7168055555555556,
+    "hit_at_5_ci95": [
+      0.725,
+      0.8666666666666667
+    ],
+    "mrr_at_5_ci95": [
+      0.6379062500000001,
+      0.7886145833333332
+    ],
+    "errors_count": 0,
+    "errors_sample": [],
+    "per_stratum": {
+      "broad": {
+        "hit_at_5": 0.9666666666666667,
+        "mrr_at_5": 0.8122222222222221
+      },
+      "narrow": {
+        "hit_at_5": 0.9666666666666667,
+        "mrr_at_5": 0.9233333333333333
+      },
+      "ambiguous": {
+        "hit_at_5": 0.3,
+        "mrr_at_5": 0.2261111111111111
+      },
+      "scale_focused": {
+        "hit_at_5": 0.9666666666666667,
+        "mrr_at_5": 0.9055555555555554
+      }
+    }
+  },
+  "mode_cross_encoder_small": {
+    "mode": "cross_encoder_small",
+    "base_url": "https://construct-library-4yjtd3ptj-josues-projects-3778d4c0.vercel.app",
+    "num_queries": 120,
+    "hit_at_5": 0.8583333333333333,
+    "mrr_at_5": 0.8211111111111111,
+    "hit_at_5_ci95": [
+      0.7916666666666666,
+      0.9166666666666666
+    ],
+    "mrr_at_5_ci95": [
+      0.7530486111111111,
+      0.8833333333333333
+    ],
+    "errors_count": 0,
+    "errors_sample": [],
+    "per_stratum": {
+      "broad": {
+        "hit_at_5": 1.0,
+        "mrr_at_5": 0.9833333333333333
+      },
+      "narrow": {
+        "hit_at_5": 1.0,
+        "mrr_at_5": 1.0
+      },
+      "ambiguous": {
+        "hit_at_5": 0.4666666666666667,
+        "mrr_at_5": 0.3511111111111111
+      },
+      "scale_focused": {
+        "hit_at_5": 0.9666666666666667,
+        "mrr_at_5": 0.95
+      }
+    }
+  },
+  "delta_cross_encoder_minus_off": {
+    "hit_at_5": 0.058333333333333334,
+    "mrr_at_5": 0.10430555555555557,
+    "hit_at_5_ci95": [
+      0.016666666666666666,
+      0.10833333333333334
+    ],
+    "mrr_at_5_ci95": [
+      0.05110763888888888,
+      0.16319791666666664
+    ]
+  },
+  "selection_rule": {
+    "primary_metric": "highest_mrr_at_5",
+    "guardrail": "hit_at_5 must not drop materially",
+    "confidence": "prefer mode with bootstrap CI clearly better or at least not worse"
+  }
+}

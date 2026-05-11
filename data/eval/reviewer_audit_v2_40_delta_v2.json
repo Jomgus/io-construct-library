@@ -1,0 +1,34 @@
+{
+  "overall": {
+    "before_y": 37,
+    "after_y": 35,
+    "delta_y": -2,
+    "total": 40
+  },
+  "focus_delta": [
+    {
+      "query": "employee voice and silence",
+      "before": "N",
+      "after": "N",
+      "before_rank": "",
+      "after_rank": "",
+      "after_top5": "Counterproductive work behavior; Humility; Persuasion; Impact of Decisions; Openness and Honesty"
+    },
+    {
+      "query": "role ambiguity at work",
+      "before": "N",
+      "after": "N",
+      "before_rank": "",
+      "after_rank": "",
+      "after_top5": "Conflictual Contact; Role Conflict; Tolerance for Ambiguity; Roles; Role Overload"
+    },
+    {
+      "query": "emotional labor in service work",
+      "before": "N",
+      "after": "N",
+      "before_rank": "",
+      "after_rank": "",
+      "after_top5": "Emotional exhaustion; Communicating and Interacting; Assisting and Caring for Others; Social Perceptiveness - Entry Requirement; Job Interactions"
+    }
+  ]
+}

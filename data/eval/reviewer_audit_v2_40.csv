@@ -1,0 +1,41 @@
+query,stratum,top5_results,relevant_in_top5,rank_of_first_relevant,rating_1_5,notes,keep/edit
+justice perceptions at work,ambiguous,Integrity; Organizational justice; Optimism; Fairness; Justice; Law,Y,1,5,,keep
+commitment at work,ambiguous,Organizational commitment; Dependability; Responsibility for Others; Achievement Orientation; Organizational citizenship behavior,Y,1,5,,keep
+burnout in employees,ambiguous,Occupational burnout; Emotional exhaustion; Burnout; Stress Tolerance; Ego depletion,Y,1,5,,keep
+citizenship behavior at work,ambiguous,Organizational citizenship behavior; Integrity; Counterproductive work behavior; Work behavior; Interpersonally Oriented,Y,1,5,,keep
+counterproductive behavior at work,ambiguous,Counterproductive work behavior; Work behavior; Cautiousness; Work Styles; Emotionally Resilient,Y,1,5,,keep
+work family conflict construct,ambiguous,Work–family conflict; Organizational conflict; Conflictual Contact; Roles; Conflict theories,Y,1,5,,keep
+leadership style effects at work,ambiguous,Leadership style; Transformational leadership; Authoritarian leadership style; Work Styles; Shared leadership,Y,1,5,,keep
+job attitude construct,ambiguous,Job attitude; Job satisfaction; Job dissatisfaction; Organizational commitment; Job enrichment,Y,1,5,,keep
+employee voice and silence,ambiguous,Openness and Honesty; Active Listening; Humility; Speaking; Layoff,N,,2,stress_test,edit
+psychological safety in teams,ambiguous,Psychological safety; Safety behaviors; Organizational safety; Emotionally Resilient; Personnel psychology,Y,1,5,,keep
+overall Job satisfaction in workplace settings,broad,Compensation; Job satisfaction; Job dissatisfaction; Work Values; Job Stability and Rotation,Y,2,4,,keep
+evidence on Job performance in io psychology,broad,Personnel psychology; Job performance; Feedback; Job design; Training and Development,Y,1,5,,keep
+organizational outcomes linked to Organizational commitment,broad,Organizational commitment; Organizational effectiveness; Total quality management; Strategic alignment; Organizational citizenship behavior,Y,1,5,,keep
+overall Job attitude in workplace settings,broad,Job attitude; Work Styles; Openness and Honesty; Workforce Characteristics; Cooperation,Y,1,5,,keep
+evidence on Big Five personality traits in io psychology,broad,Big Five personality traits and culture; Big Five personality traits; Hierarchical structure of the Big Five; Neuroticism; Agreeableness,Y,1,5,,keep
+organizational outcomes linked to Career development,broad,Interests and Work Values; Cognitive Information Processing; Career development; Employee research; Organizational effectiveness,Y,2,4,,keep
+overall Test validity in workplace settings,broad,Test validity; Feedback; Incremental validity; Face validity; Interests and Work Values,Y,1,5,,keep
+evidence on Turnover in io psychology,broad,Occupational burnout; Personnel psychology; Organizational identification; Interpretative phenomenological analysis; Item response theory,Y,2,4,,keep
+organizational outcomes linked to Interpersonal communication,broad,Interpersonal communication; Intrapersonal communication; Oral Communication; Establishing and Maintaining Interpersonal Relationships; Interests and Work Values,Y,1,5,,keep
+evidence on Supervisor in io psychology,broad,Personnel psychology; Organizational identification; Cognitive Abilities; Interpretative phenomenological analysis; Cognitive resource theory,Y,1,5,,keep
+specific construct definition for Cognitive style,narrow,Cognitive style; Cognitive skill; Cognitive complexity; Cognitive map; Need for cognition,Y,1,5,,keep
+how Job loss differs from related constructs,narrow,Job loss; Occupational burnout; Workload; Role Overload; Work Styles,Y,1,5,,keep
+specific construct definition for Authoritarianism,narrow,Authoritarianism; Egalitarianism; Authoritarian leadership style; Constructive; Construals,Y,1,5,,keep
+how Job shadow differs from related constructs,narrow,Job shadow; Alternate Titles; Role Overload; Identifying and Evaluating Job-Relevant Information; Work Setting,Y,1,5,,keep
+psychological contract breach at work,narrow,Psychological contract; Breach of contract; Occupational burnout; Psychological abuse; Work–family conflict,Y,1,5,Provisional relevance set used; confirm in review.,keep
+specific construct definition for Cognitive appraisal,narrow,Cognitive appraisal; Cognitive reappraisal; Elementary cognitive task; Cognitive complexity; The Emotional Intelligence Appraisal,Y,1,5,,keep
+role ambiguity at work,narrow,Tolerance for Ambiguity; Responsibility for Others; Role Negotiability; Self-Confidence; Role Overload,N,,2,Provisional relevance set used; confirm in review.; stress_test,edit
+perceived organizational support,narrow,Perceived organizational support; Structural Characteristics; Developing and Building Teams; Extent and Support of Training Activities; Culture,Y,1,5,Provisional relevance set used; confirm in review.,keep
+specific construct definition for Cynicism,narrow,Cynicism; Need for cognition; Emotionally Resilient; Sincerity; Optimism,Y,1,5,,keep
+how Job rotation differs from related constructs,narrow,Job rotation; Job Stability and Rotation; Job Rotation Practices; Tasks; Work Context,Y,1,5,,keep
+validated scale or measurement for Job satisfaction,scale_focused,Job satisfaction; Job dissatisfaction; Work Values; The Emotional Intelligence Appraisal; Feedback,Y,1,5,,keep
+questionnaire and psychometric evidence for Organizational commitment,scale_focused,Organizational commitment; Organizational citizenship behavior; Item response theory; Acceptance and commitment therapy; Big Five personality traits,Y,1,5,,keep
+reliability and validity indicators for Big Five personality traits,scale_focused,Big Five personality traits and culture; Big Five personality traits; Neuroticism; The Emotional Intelligence Appraisal; Hierarchical structure of the Big Five,Y,1,5,,keep
+validated scale or measurement for Test validity,scale_focused,Test validity; The Emotional Intelligence Appraisal; Discriminant validity; Content validity; Criterion validity,Y,1,5,,keep
+questionnaire and psychometric evidence for Construct validity,scale_focused,Content validity; Construct validity; Criterion validity; The Emotional Intelligence Appraisal; Personality test,Y,1,5,,keep
+reliability and validity indicators for Productivity,scale_focused,Productivity; Monitor Data on Quality/Costs/Waste/etc.; Work productivity; Construct validity; Abilities,Y,1,5,,keep
+emotional labor in service work,scale_focused,Optimism; Emotionally Resilient; Sales; Empathy; Assisting and Caring for Others,N,,2,Provisional relevance set used; confirm in review.; stress_test,edit
+questionnaire and psychometric evidence for Incremental validity,scale_focused,Incremental validity; Content validity; The Emotional Intelligence Appraisal; Criterion validity; Concurrent validity,Y,1,5,,keep
+reliability and validity indicators for Discriminant validity,scale_focused,Discriminant validity; Convergent validity; Incremental validity; Construct validity; Face validity,Y,1,5,,keep
+validated scale or measurement for Criterion validity,scale_focused,Criterion validity; The Emotional Intelligence Appraisal; Test validity; Content validity; Discriminant validity,Y,1,5,,keep

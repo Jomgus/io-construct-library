@@ -1,0 +1,18 @@
+{
+  "endpoint": "https://api.cloudflare.com/client/v4/accounts/5dea2040f243ee115fb9db5faff2d8cb/ai/run/@cf/baai/bge-reranker-base",
+  "model": "cross-encoder/ms-marco-MiniLM-L-6-v2",
+  "timeout_ms": 2500,
+  "requests": 60,
+  "successes": 60,
+  "failures": 0,
+  "timeouts": 0,
+  "latency_ms": {
+    "p50": 493.7505410052836,
+    "p95": 721.4041659608483,
+    "mean": 501.54652356480557
+  },
+  "status_counts": {
+    "200": 60
+  },
+  "error_examples": []
+}

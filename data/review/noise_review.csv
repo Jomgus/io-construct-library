@@ -1,0 +1,18 @@
+Construct_Name,Source,Journal,Year,Concept_Level,Paper_Count,Journal_Tier,Is_Noise,Noise_Reasons
+Robotics,OpenAlex,Journal of Applied Psychology,1992,3,2,Tier_1_Core_IO,True,keyword:robotics
+Tension (geology),OpenAlex,Academy of Management Journal,1983,3,2,Tier_2_Broad_Adjacent,True,keyword:geology
+Tension (geology),OpenAlex,Journal of Applied Psychology,1976,3,2,Tier_1_Core_IO,True,keyword:geology
+American political science,OpenAlex,Academy of Management Journal,2024,3,1,Tier_2_Broad_Adjacent,True,keyword:political science
+American political science,OpenAlex,Journal of Management,2020,3,1,Tier_2_Broad_Adjacent,True,keyword:political science
+American political science,OpenAlex,Journal of Management,2025,3,1,Tier_2_Broad_Adjacent,True,keyword:political science
+American political science,OpenAlex,Journal of Organizational Behavior,2005,3,1,Tier_1_Core_IO,True,keyword:political science
+Electrochemistry,OpenAlex,Applied Psychology: An International Review,2004,3,1,Tier_2_Broad_Adjacent,True,keyword:chemistry
+Inversion (geology),OpenAlex,Journal of Organizational Behavior,2016,3,1,Tier_1_Core_IO,True,keyword:geology
+Psychophysics,OpenAlex,Journal of Applied Psychology,1955,3,1,Tier_1_Core_IO,True,keyword:physics
+Psychophysics,OpenAlex,Journal of Applied Psychology,1963,3,1,Tier_1_Core_IO,True,keyword:physics
+Psychophysics,OpenAlex,Journal of Occupational and Organizational Psychology,2025,3,1,Tier_1_Core_IO,True,keyword:physics
+Quantum entanglement,OpenAlex,Personnel Psychology,1952,3,1,Tier_1_Core_IO,True,keyword:quantum
+Robotics,OpenAlex,Academy of Management Journal,2025,3,1,Tier_2_Broad_Adjacent,True,keyword:robotics
+Tension (geology),OpenAlex,Academy of Management Journal,2020,3,1,Tier_2_Broad_Adjacent,True,keyword:geology
+Tension (geology),OpenAlex,Journal of Management,1975,3,1,Tier_2_Broad_Adjacent,True,keyword:geology
+Tension (geology),OpenAlex,Journal of Organizational Behavior,2005,3,1,Tier_1_Core_IO,True,keyword:geology
