@@ -1,0 +1,182 @@
+{
+  "big five personality traits": {
+    "Construct_Name": "Big Five personality traits",
+    "concept_id": "https://openalex.org/C2865642",
+    "doi_urls": [
+      "https://doi.org/10.1111/j.1744-6570.1991.tb00688.x",
+      "https://doi.org/10.1111/j.1744-6570.1995.tb01781.x",
+      "https://doi.org/10.1002/job.4030140202"
+    ]
+  },
+  "career development": {
+    "Construct_Name": "Career development",
+    "concept_id": "https://openalex.org/C2777247013",
+    "doi_urls": [
+      "https://doi.org/10.1006/jvbe.1994.1027",
+      "https://doi.org/10.1016/0001-8791(80)90056-1",
+      "https://doi.org/10.1111/j.1744-6570.2005.00515.x"
+    ]
+  },
+  "construct validity": {
+    "Construct_Name": "Construct validity",
+    "concept_id": "https://openalex.org/C49453240",
+    "doi_urls": [
+      "https://doi.org/10.1037/0021-9010.86.3.386",
+      "https://doi.org/10.1177/0149206307308913",
+      "https://doi.org/10.1006/jvbe.1996.0043"
+    ]
+  },
+  "economic justice": {
+    "Construct_Name": "Economic Justice",
+    "concept_id": "https://openalex.org/C139621336",
+    "doi_urls": [
+      "https://doi.org/10.1037/0021-9010.86.3.425",
+      "https://doi.org/10.1037/0021-9010.86.3.386",
+      "https://doi.org/10.1177/014920639001600208"
+    ]
+  },
+  "extraversion and introversion": {
+    "Construct_Name": "Extraversion and introversion",
+    "concept_id": "https://openalex.org/C127816348",
+    "doi_urls": [
+      "https://doi.org/10.1111/j.1744-6570.1991.tb00688.x",
+      "https://doi.org/10.1111/j.1744-6570.1995.tb01781.x",
+      "https://doi.org/10.1002/job.4030140202"
+    ]
+  },
+  "interpersonal communication": {
+    "Construct_Name": "Interpersonal communication",
+    "concept_id": "https://openalex.org/C164850336",
+    "doi_urls": [
+      "https://doi.org/10.2307/256727",
+      "https://doi.org/10.1037/0021-9010.86.3.425",
+      "https://doi.org/10.1037/0021-9010.86.3.386"
+    ]
+  },
+  "job analysis": {
+    "Construct_Name": "Job analysis",
+    "concept_id": "https://openalex.org/C58346731",
+    "doi_urls": [
+      "https://doi.org/10.1037/h0076546",
+      "https://doi.org/10.1037/0021-9010.91.6.1321",
+      "https://doi.org/10.1037/h0031152"
+    ]
+  },
+  "job attitude": {
+    "Construct_Name": "Job attitude",
+    "concept_id": "https://openalex.org/C150706916",
+    "doi_urls": [
+      "https://doi.org/10.1006/jvbe.2001.1842",
+      "https://doi.org/10.1037/0021-9010.87.4.698",
+      "https://doi.org/10.1177/014920639101700305"
+    ]
+  },
+  "job design": {
+    "Construct_Name": "Job design",
+    "concept_id": "https://openalex.org/C139140526",
+    "doi_urls": [
+      "https://doi.org/10.5465/amj.2010.51468988",
+      "https://doi.org/10.1037/0021-9010.91.6.1321",
+      "https://doi.org/10.1037/0021-9010.92.5.1332"
+    ]
+  },
+  "job performance": {
+    "Construct_Name": "Job performance",
+    "concept_id": "https://openalex.org/C174954385",
+    "doi_urls": [
+      "https://doi.org/10.1037/0021-9010.86.3.499",
+      "https://doi.org/10.1006/jvbe.2001.1842",
+      "https://doi.org/10.1037/0021-9010.87.4.698"
+    ]
+  },
+  "job satisfaction": {
+    "Construct_Name": "Job satisfaction",
+    "concept_id": "https://openalex.org/C2718322",
+    "doi_urls": [
+      "https://doi.org/10.1037/0021-9010.86.3.499",
+      "https://doi.org/10.1037/h0076546",
+      "https://doi.org/10.1006/jvbe.2001.1842"
+    ]
+  },
+  "organizational change": {
+    "Construct_Name": "Organizational change",
+    "concept_id": "https://openalex.org/C3017995491",
+    "doi_urls": [
+      "https://doi.org/10.2307/256404",
+      "https://doi.org/10.2307/3069285",
+      "https://doi.org/10.2307/257008"
+    ]
+  },
+  "organizational citizenship behavior": {
+    "Construct_Name": "Organizational citizenship behavior",
+    "concept_id": "https://openalex.org/C126583095",
+    "doi_urls": [
+      "https://doi.org/10.1006/jvbe.2001.1842",
+      "https://doi.org/10.1177/014920639101700305",
+      "https://doi.org/10.1037/0021-9010.86.3.425"
+    ]
+  },
+  "organizational commitment": {
+    "Construct_Name": "Organizational commitment",
+    "concept_id": "https://openalex.org/C83030740",
+    "doi_urls": [
+      "https://doi.org/10.1016/0001-8791(79)90072-1",
+      "https://doi.org/10.1002/job.322",
+      "https://doi.org/10.1006/jvbe.2001.1842"
+    ]
+  },
+  "personnel selection": {
+    "Construct_Name": "Personnel selection",
+    "concept_id": "https://openalex.org/C2777207495",
+    "doi_urls": [
+      "https://doi.org/10.1111/j.1744-6570.1991.tb00688.x",
+      "https://doi.org/10.1037/0021-9010.88.3.500",
+      "https://doi.org/10.1111/j.1744-6570.1991.tb00696.x"
+    ]
+  },
+  "population": {
+    "Construct_Name": "Population",
+    "concept_id": "https://openalex.org/C2908647359",
+    "doi_urls": [
+      "https://doi.org/10.1016/j.jvb.2004.08.009",
+      "https://doi.org/10.1016/j.jvb.2020.103445",
+      "https://doi.org/10.1037/0021-9010.90.1.175"
+    ]
+  },
+  "situational ethics": {
+    "Construct_Name": "Situational ethics",
+    "concept_id": "https://openalex.org/C9114305",
+    "doi_urls": [
+      "https://doi.org/10.1037/0021-9010.88.3.500",
+      "https://doi.org/10.1037/0021-9010.85.5.678",
+      "https://doi.org/10.5465/amj.2009.43670890"
+    ]
+  },
+  "supervisor": {
+    "Construct_Name": "Supervisor",
+    "concept_id": "https://openalex.org/C2779110517",
+    "doi_urls": [
+      "https://doi.org/10.1111/j.1744-6570.2005.00672.x",
+      "https://doi.org/10.1037/0021-9010.87.3.565",
+      "https://doi.org/10.5465/1556375"
+    ]
+  },
+  "test validity": {
+    "Construct_Name": "Test validity",
+    "concept_id": "https://openalex.org/C116211729",
+    "doi_urls": [
+      "https://doi.org/10.1037/0021-9010.86.3.386",
+      "https://doi.org/10.1037/0021-9010.85.3.349",
+      "https://doi.org/10.1037/0021-9010.73.3.421"
+    ]
+  },
+  "turnover": {
+    "Construct_Name": "Turnover",
+    "concept_id": "https://openalex.org/C26077564",
+    "doi_urls": [
+      "https://doi.org/10.2307/256741",
+      "https://doi.org/10.1037/h0037335",
+      "https://doi.org/10.1037/0021-9010.87.2.268"
+    ]
+  }
+}

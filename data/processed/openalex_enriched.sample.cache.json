@@ -1,0 +1,32 @@
+{
+  "big five personality traits": {
+    "Construct_Name": "Big Five personality traits",
+    "Definition_Source": "Wikidata",
+    "Definition_Text": "API Error: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /w/api.php?action=query&prop=extracts&exsentences=2&exlimit=1&titles=Big+Five+personality+traits&explaintext=1&format=json&redirects=1 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x108802ad0>: Failed to resolve 'en.wikipedia.org' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "Last_Updated": "2026-03-10T00:37:24+00:00"
+  },
+  "job attitude": {
+    "Construct_Name": "Job attitude",
+    "Definition_Source": "Wikidata",
+    "Definition_Text": "API Error: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /w/api.php?action=query&prop=extracts&exsentences=2&exlimit=1&titles=Job+attitude&explaintext=1&format=json&redirects=1 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x108802490>: Failed to resolve 'en.wikipedia.org' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "Last_Updated": "2026-03-10T00:37:23+00:00"
+  },
+  "job performance": {
+    "Construct_Name": "Job performance",
+    "Definition_Source": "Wikidata",
+    "Definition_Text": "API Error: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /w/api.php?action=query&prop=extracts&exsentences=2&exlimit=1&titles=Job+performance&explaintext=1&format=json&redirects=1 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x108801310>: Failed to resolve 'en.wikipedia.org' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "Last_Updated": "2026-03-10T00:37:21+00:00"
+  },
+  "job satisfaction": {
+    "Construct_Name": "Job satisfaction",
+    "Definition_Source": "Wikidata",
+    "Definition_Text": "API Error: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /w/api.php?action=query&prop=extracts&exsentences=2&exlimit=1&titles=Job+satisfaction&explaintext=1&format=json&redirects=1 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x108804050>: Failed to resolve 'en.wikipedia.org' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "Last_Updated": "2026-03-10T00:37:20+00:00"
+  },
+  "organizational commitment": {
+    "Construct_Name": "Organizational commitment",
+    "Definition_Source": "Wikidata",
+    "Definition_Text": "API Error: HTTPSConnectionPool(host='en.wikipedia.org', port=443): Max retries exceeded with url: /w/api.php?action=query&prop=extracts&exsentences=2&exlimit=1&titles=Organizational+commitment&explaintext=1&format=json&redirects=1 (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x108801f90>: Failed to resolve 'en.wikipedia.org' ([Errno 8] nodename nor servname provided, or not known)\"))",
+    "Last_Updated": "2026-03-10T00:37:22+00:00"
+  }
+}
