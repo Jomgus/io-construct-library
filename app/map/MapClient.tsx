@@ -323,10 +323,10 @@ export default function MapClient({ initialQuery }: { initialQuery: string }) {
         <div className="grid items-start gap-10 pt-10 lg:grid-cols-[320px_1fr]">
           <aside className="sticky top-8 space-y-6 self-start">
             <div>
-              <h1 className="font-display text-4xl tracking-tight">Local map prototype</h1>
+              <h1 className="font-display text-4xl tracking-tight">Construct Network</h1>
               <p className="mt-3 text-sm leading-7 text-[var(--muted)]">
-                Query-centered graph built from the top search results and their related constructs.
-                Pan, zoom, and use this to judge the graph view before we compute a full network.
+                Relational view of the library structure. The center node represents the search query, 
+                connected to top-ranked results and their adjacent constructs.
               </p>
               <p className="mt-3 text-sm text-[var(--muted)]">
                 <Link href={`/?q=${encodeURIComponent(submittedQuery)}`} className="underline underline-offset-4">
